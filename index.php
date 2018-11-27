@@ -12,5 +12,6 @@
     <p>wsh on va au krusty burger?</p>
     <P>Alllez c'est parti!</P>
     <p> ouais! </p>
+    <p>;)</p>
 </body>
 </html>
