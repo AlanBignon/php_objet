@@ -1,4 +1,5 @@
 <?php
+$i =0
 
 ?><!DOCTYPE html>
 <html lang="fr">
